@@ -1,0 +1,136 @@
+.list{
+    display: inline; justify-content: space-around; list-style: none; padding: 15px 40px 20px; padding-left: 300px; display: flex;  
+}
+.head{
+    background-color: yellow; margin-top: -2%; padding: 13px;
+}
+#h3{
+    margin-top: -5px; 
+}
+#search{
+     padding-left: 220px; margin-bottom: -200px;margin-top: -90px;
+}
+#heart{
+    margin-left: 20%;
+
+}
+#logo{
+    width: 1270px; height: 60px;
+}
+.checks{
+    margin-left: 25px;
+}
+#oo{
+    margin-top: -17px; margin-left: 20px;
+}
+#but1{
+ border-radius:10px ;
+ width: 40px;
+ background-color:red;
+}
+#but2{
+    border-radius:10px ;
+    width: 40px;
+    background-color:yellow;
+}
+#but3{
+    border-radius:10px ;
+    width: 40px;
+    background-color:red;
+}
+#but4{
+    border-radius:10px ;
+    width: 40px;
+    background-color:red;
+}
+#but5{
+    border-radius:10px ;
+    width: 40px;
+    background-color:red;
+}
+#but6{
+    border-radius:10px ;
+    width: 40px;
+    background-color:red;
+}
+#but7{
+    border-radius:10px ;
+    width: 40px;
+    background-color:yellow;
+}
+#but8{
+    border-radius:10px ;
+    width: 40px;
+    background-color:yellow;
+}
+#one{
+    width: 270px;
+}
+.picture1{
+    display: flex;
+    margin-left: 17%;
+    margin-top: -65%;
+    justify-content: space-between;
+}
+.picture2{
+    display: flex;
+    margin-left: 17%;
+    justify-content: space-between;
+    margin-top: 8%;
+}
+.picture3{
+    display: flex;
+    margin-left: 17%;
+    justify-content: space-between;
+    margin-top: 8%;
+}
+.picture4{
+    display: flex;
+    margin-left: 17%;
+    justify-content: space-between;
+    margin-top: 8%; 
+}
+#fun{
+    width: 30%;
+}
+.picture5{
+    display: flex;
+    margin-left: 17%;
+    justify-content: space-between;
+    margin-top: 8%;
+}
+footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(107, 9, 107);
+}
+footer ul li{
+    list-style: none;
+    color: white;
+}
+.peg{
+    margin-right: 180px;
+}
+#numbers{
+    text-align: center;
+    font-size: 30px;
+    justify-content: space-between;
+ 
+}
+#see{
+    text-align: center;
+    border-radius:10px ;
+    background-color: yellow;
+    margin-left: 45%;
+}
+
+
+
+
+
+
+
+
+
+
